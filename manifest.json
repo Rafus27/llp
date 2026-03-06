@@ -1,8 +1,8 @@
 {
   "name": "LILA Просто",
-  "start_url": "/ll/",
+  "start_url": "/llp/",
   "display": "standalone",
-  "short_name": "LILA",
+  "short_name": "LILA Просто",
   "theme_color": "#05657D",
   "background_color": "#fffcf2",
   "orientation": "portrait",
@@ -16,3 +16,4 @@
   ]
 
 }
+
